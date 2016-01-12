@@ -1,4 +1,4 @@
-# Codingchaos - 14. Januar 2016
+# Codingchaos - 14. Januar 2016 - Beginner
 
 Die Fachschaft Mathematik/Informatik und der Chaostreff Osnabrück laden ein.
 
